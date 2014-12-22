@@ -43,6 +43,3 @@ tBodyGyroJerkMean
 
 
 Finally, every variable is averaged over the set of subjects and the set of activities. That is: for every subject and every activity every set of values belonging to a specific variable is averaged.
-
-NOTE:
-The complete list of variables of each feature vector is available in 'features.txt'
